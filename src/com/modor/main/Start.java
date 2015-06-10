@@ -1,4 +1,4 @@
-package com.modor.start;
+package com.modor.main;
 
 import com.modor.sort.*;
 
