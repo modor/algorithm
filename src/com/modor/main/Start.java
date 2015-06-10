@@ -14,5 +14,8 @@ public class Start {
 			System.out.println(testArray[i]);
 		}
 	}
+	public void test(){
+		System.out.print("test this£¡");
+	}
 
 }
