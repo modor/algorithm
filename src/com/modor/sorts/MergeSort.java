@@ -1,4 +1,4 @@
-package com.modor.sort;
+package com.modor.sorts;
 
 public class MergeSort {
 	public void mergeSort(int[] numArray, int arrayLeftBoder,

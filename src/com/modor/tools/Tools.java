@@ -1,4 +1,4 @@
-package com.modor.tool;
+package com.modor.tools;
 
 public class Tools {
 

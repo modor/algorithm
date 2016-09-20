@@ -1,6 +1,6 @@
 package com.modor.main;
 
-import com.modor.sort.*;
+import com.modor.sorts.*;
 
 public class SortStart {
 
